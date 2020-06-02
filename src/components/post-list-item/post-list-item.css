@@ -1,0 +1,14 @@
+.post-list-item {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 15px;
+}
+
+.checked {
+    text-decoration: line-through;
+}
+
+.list-item {
+    font-family: "Titillium Web";
+}
